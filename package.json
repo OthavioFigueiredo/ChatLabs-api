@@ -33,7 +33,7 @@
     "@nestjs/mapped-types": "*",
     "@nestjs/platform-express": "^10.0.0",
     "@nestjs/schedule": "^4.0.2",
-    "@prisma/client": "^5.13.0",
+    "@prisma/client": "^5.14.0",
     "apollo-server-express": "^3.13.0",
     "bull": "^4.12.3",
     "graphql": "^16.8.1",
