@@ -11,3 +11,7 @@ git clone git@github.com:OthavioFigueiredo/ChatLabs-api.git
 2. COMO COMEÇAR
 
 Comece pelo back-end para a api funcionar normalmente
+
+3. Banco de dados
+
+DATABASE_URL="postgresql://user:password:@localhost:5432/postegres?schema=public"
