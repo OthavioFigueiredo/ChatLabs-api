@@ -6,7 +6,7 @@ Este projeto tem o objetivo de criar uma arquitetura que permita a obtenção de
 
 1.GIT CLONE
 
-git clone git@github.com:OthavioFigueiredo/ChatLabs-api.git
+git clone git@github.com:OthavioFigueiredo/ChatLabs-api-backend.git
 
 2. COMO COMEÇAR
 
