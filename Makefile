@@ -1,6 +1,6 @@
 install.api:
 	@echo "--> Installing API"
-	@npm install
+	@npm install && npx prisma generate
 
 start.api:
 	@echo "--> Start API"
